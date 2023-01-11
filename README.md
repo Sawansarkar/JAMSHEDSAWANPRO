@@ -1,5 +1,9 @@
-git clone https://github.com/Sawansarkar/jamshedsawanpro
+git clone https://github.com/Sawansarkar/JamshedSawanpro
 
-cd jamshedsawanpro
+cd JamshedSawanpro
 
-python jamshedsawanpro.py
+python JamshedSawanpro.py
+
+
+
+
